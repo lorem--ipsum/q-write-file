@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+const path = require('path');
 const Q = require('Q');
 const mkdirp = require('mkdirp');
 
