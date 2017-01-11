@@ -1,6 +1,6 @@
 {
   "name": "q-write-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A file writer that uses mkdirp and kriskowal's promises",
   "main": "index.js",
   "scripts": {
