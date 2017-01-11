@@ -1,0 +1,23 @@
+{
+  "name": "q-write-file",
+  "version": "0.0.0",
+  "description": "A file writer that uses mkdirp and kriskowal's promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorem--ipsum/q-write-file.git"
+  },
+  "author": "Sébastien Fragnaud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lorem--ipsum/q-write-file/issues"
+  },
+  "homepage": "https://github.com/lorem--ipsum/q-write-file#readme",
+  "dependencies": {
+    "mkdirp": "0.5.1",
+    "q": "1.4.1"
+  }
+}
