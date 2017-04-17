@@ -5,8 +5,6 @@ const fs = require('fs');
 const Q = require('q');
 const mkdirp = require('mkdirp');
 
-console.log(Q.defer());
-
 module.exports = function(filePath, content) {
   let deferred = Q.defer();
 
